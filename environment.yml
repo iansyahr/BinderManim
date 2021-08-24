@@ -1,0 +1,11 @@
+name: jmanim
+channels:
+  - defaults
+dependencies:
+  - ffmpeg
+  - python
+  - pip
+  - setuptools
+  - matplotlib
+  - pip:
+    - manim
