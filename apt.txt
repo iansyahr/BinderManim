@@ -7,3 +7,5 @@ texlive-latex-recommended
 texlive-science 
 tipa 
 libpango1.0-dev
+transmission-cli
+aria2
